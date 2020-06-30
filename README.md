@@ -11,4 +11,7 @@ What things you need to install the software
 Installing: Anaconda - JupyterLab
  
  Programming Language used : Python 3
+ 
+  Python library used: 
+ pandas, numpy, matplotlib, seaborn 
 

@@ -1,4 +1,4 @@
-# Udacity_Data_Analyst_project3
+# Udacity_Data_Analyst_project2
 ## Movie Analysis
 
 ### I completed this project as part of Udacity's Data Analyst Nanodegree.

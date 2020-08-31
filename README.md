@@ -1,5 +1,7 @@
-# Udacity_Data_Analyst
-## project 2 (Movie Analysis)
+# Udacity_Data_Analyst_project3
+## Movie Analysis
+
+### I completed this project as part of Udacity's Data Analyst Nanodegree.
 
 ## Dataset
 In this project we'll be analyzing data associated with movies. This data set contains information about 10,000 movies collected from The Movie Database(TMDb)
